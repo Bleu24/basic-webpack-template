@@ -1,8 +1,8 @@
 {
-  "name": "webpack-template", //change this
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
-  "main": "template.js", //change this base on entry point
+  "main": "entry.js",
   "scripts": {
     "dev": "webpack serve --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
