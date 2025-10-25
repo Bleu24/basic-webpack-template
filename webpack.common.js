@@ -27,7 +27,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             template: "./src/template.html",
-            title: "webpack-template"
+            title: "webpack-template" // change this, this chanes the title docs
         })
     ]
 }
