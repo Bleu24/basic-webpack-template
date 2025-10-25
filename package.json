@@ -1,8 +1,8 @@
 {
-  "name": "game",
+  "name": "webpack-template", //change this
   "version": "1.0.0",
   "description": "",
-  "main": "webpack.common.js",
+  "main": "template.js", //change this base on entry point
   "scripts": {
     "dev": "webpack serve --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
