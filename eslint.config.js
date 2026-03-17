@@ -11,7 +11,7 @@ export default defineConfig([
         languageOptions: {
             globals: {
                 ...globals.browser,
-                ...global.jest,
+                ...globals.jest,
                 ...globals.node
             }
         },
