@@ -38,7 +38,7 @@ export default {
     plugins: [
         new HtmlWebpackPlugin({
             template: "./src/template.html",
-            title: "Nimbus" // change this, this chanes the title docs
+            title: "Basic Template" // change this, this changes the title docs
         })
     ]
 };
