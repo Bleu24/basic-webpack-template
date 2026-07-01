@@ -150,4 +150,4 @@ Contributions are welcome. Feel free to open an issue or submit a pull request w
 
 ## 📄 License
 
-Specify your license here (e.g., MIT).
+MIT
